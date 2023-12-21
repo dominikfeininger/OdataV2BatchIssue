@@ -1,0 +1,18 @@
+{
+  "name": "sap.ui.core.tutorial.mockserver.04",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Code: OData V2 Mock Server - Step 4 - Calling a Function Import",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "dependencies": {
+    "@openui5/themelib_sap_fiori_3": "^1"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^3.0.0",
+    "ui5-middleware-livereload": "^3.0.2",
+    "ui5-middleware-simpleproxy": "^3.2.8"
+  }
+}
